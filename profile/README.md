@@ -1,5 +1,5 @@
 # 📌 Endless Network Multigaming
-Minecraft, FiveM and Discord server<br>
-Our developers and staff members are in this organization<br>
+Server Minecraft, FiveM e Discord italiano.<br>
+In questa organizzazione ci sono i nostri developer e staffer<br>
 
-We have open source discord bots, minecraft plugins and fivem addons that we make
+Abbiamo progetti open source tra cui bot discord, plugin per il nostro server minecraft e addon fivem.
